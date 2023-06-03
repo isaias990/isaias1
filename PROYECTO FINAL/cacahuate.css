@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
 
+*{
+	font-family: 'Oswald', sans-serif;
+}    
 
 body {
+	
 	font-family: 'Open Sans', sans-serif;
 	background: #000 ;
 	background-size: cover;
@@ -18,9 +23,7 @@ body {
 	flex-wrap:wrap;
 	height: 100%;
 	background: #f0edf0;
-	/*background-image: url(imagenes/titulo\ 1.jpg);
-	background-repeat: no-repeat;
-	background-size: none;*/
+	
 }
 
 header {
@@ -37,12 +40,11 @@ header {
 
 header .menu a {
 
-	color: #050105;
+	color: #0e0b0e;
 	text-decoration: none;
 	margin-right:center;
-	font-size: 23px;
-	padding: 100px;
-	background: #cc292c;
+	font-size: 60px;
+	padding: 50px;
 	text-align: center;
 	
 	
